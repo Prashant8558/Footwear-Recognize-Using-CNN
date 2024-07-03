@@ -1,4 +1,4 @@
-# Footwear-Recognize-Using-CNN :-
+# Footwear-Recognize-Using-CNN (Deep Learning) :-
 
 Summary
 This project aimed to develop a Convolutional Neural Network (CNN) model capable of accurately recognizing different types of footwear from images. 
